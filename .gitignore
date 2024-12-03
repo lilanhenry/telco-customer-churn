@@ -1,0 +1,3 @@
+#Files not to track
+#data/*
+.ipynb_checkpoints
